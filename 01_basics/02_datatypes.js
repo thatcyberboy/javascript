@@ -6,7 +6,8 @@ console.log(3 + 3)
 console.log("Akash")
 
 let name = "Akash" //string
-let age = 19 //number, we also use bigInt for numbers greater than 2 to the power 53
+let age = 19 // number, we also use bigInt for numbers greater than 2 to the power 53
+let new_number = 1.89 // number
 let is_logged_in = true //boolean
 let value = null
 
